@@ -18,7 +18,7 @@ function SearchPage() {
 
   // const data = Response;
 
-  console.log("this is>>", data);
+  // console.log("this is>>", data);
   return (
     <div className="searchPage">
       <div className="searchPage__header">
