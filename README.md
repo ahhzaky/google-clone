@@ -1,6 +1,6 @@
 # Google-Clone
 
-This is a Google-Clone and this app responsive.
+This is a Google-Clone with API Google Search and this app responsive.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
